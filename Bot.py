@@ -8,6 +8,7 @@ import win32con
 #X:  625 Y:  428 RGB: (181, 183, 231)
 #X:  720 Y:  416 RGB: (180, 182, 231)
 #X:  807 Y:  421 RGB: (178, 181, 230)
+#These 4 comments above show the pixel value in x and y and their RGB value
 
 time.sleep(5)
 
