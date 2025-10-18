@@ -37,4 +37,5 @@ const myObj = {
 const myFunction = function(){
     console.log("Hello World");
 } //Function data type 
-
+//These are the data types in javascript
+//hello
